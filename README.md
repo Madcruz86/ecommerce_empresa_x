@@ -31,4 +31,4 @@ __Melhoria 1__, _Melhoria 2_
 
 #### Imagem local
 
-![Logo do python](img/png-transparent-python-computer-icons-programmer-javascript-programming-language-python-logo-angle-text-logo-thumbnail.png)
+![Logo do python](img/Python.png)
